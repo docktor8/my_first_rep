@@ -18,5 +18,9 @@ Console.WriteLine(product1);
 Console.WriteLine(product2);
 Console.WriteLine(product3);
 
+int quohen = i1/i2;
+Console.WriteLine(quohen);
 
-
+d1 = 6;
+double quohen2 = i1/d1;
+Console.WriteLine(quohen2);
